@@ -33,7 +33,7 @@
 		
 	</form>
 	<div style="text-align: center;">
-  <h5><a href="1">密码获取详细教程</a></h5>
+  <h5><a href="https://wpy158.github.io/212628232523222627242020205F006F691.html">密码获取详细教程</a></h5>
   <h3><a>↓ 获取密码方法 ↓</a></h3>
   <div style="display: flex; justify-content: center;">
     <img style="max-width: 60%; height: auto;" src="https://pic.rmb.bdstatic.com/bjh/ba7d7bf779ed66c2c2c5931bfeee04f59012.jpeg" alt="暂无图片">
